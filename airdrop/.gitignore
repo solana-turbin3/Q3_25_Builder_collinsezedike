@@ -1,0 +1,8 @@
+# Ignore built ts files
+dist/**/*
+
+# Ignore node_modules
+node_modules/
+
+# Wallet files
+*wallet.json
