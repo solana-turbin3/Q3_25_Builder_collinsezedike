@@ -1,6 +1,8 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/collinsezedike/solana-starter
+	branch = master
+
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/collinsezedike/anchor-vault
