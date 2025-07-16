@@ -7,3 +7,8 @@
 	path = anchor-vault
 	url = https://github.com/collinsezedike/anchor-vault
 	branch = main
+	
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/collinsezedike/anchor-escrow
+	branch = main
