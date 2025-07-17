@@ -12,3 +12,7 @@
 	path = anchor-escrow
 	url = https://github.com/collinsezedike/anchor-escrow
 	branch = main
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/collinsezedike/anchor-amm
+	branch = main
