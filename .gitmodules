@@ -2,12 +2,10 @@
 	path = solana-starter
 	url = https://github.com/collinsezedike/solana-starter
 	branch = master
-
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/collinsezedike/anchor-vault
 	branch = main
-	
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/collinsezedike/anchor-escrow
@@ -15,4 +13,8 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = https://github.com/collinsezedike/anchor-amm
+	branch = main
+[submodule "nft-staking"]
+	path = nft-staking
+	url = https://github.com/collinsezedike/nft-staking
 	branch = main
