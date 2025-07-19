@@ -13,21 +13,21 @@ This repository contains projects and exercises completed during the Solana Turb
 
 ### Week 1: SPL Tokens & NFTs
 
--   [**solana-starter/**](./solana-starter)  
+-   [**solana-starter/**](https://github.com/collinsezedike/solana-starter)  
     TypeScript utilities and scripts for minting SPL tokens, creating and transferring NFTs, and other Solana development tasks.
 
 ### Week 2: Anchor Programs – Vault, Escrow, and AMM
 
--   [**anchor-vault/**](./anchor-vault)  
+-   [**anchor-vault/**](https://github.com/collinsezedike/anchor-vault)  
     Anchor-based Solana smart contract for a vault, with tests and deployment scripts.
--   [**anchor-escrow/**](./escrow)  
+-   [**anchor-escrow/**](https://github.com/collinsezedike/anchor-escrow)  
     Anchor-based escrow program.
--   [**anchor-amm/**](./amm)  
+-   [**anchor-amm/**](https://github.com/collinsezedike/anchor-amm)  
     Anchor-based automated market maker (AMM) program.
 
 ### Week 3: NFT Staking & NFT Marketplace
 
--   [**nft-staking/**](./nft-staking)  
+-   [**nft-staking/**](https://github.com/collinsezedike/nft-staking)  
     Anchor program for staking NFTs, where users can lock up their NFTs and earn rewards.
 -   [**nft-marketplace/**](./#)  
     (To be added) Anchor program for an NFT marketplace, where users can list and purchase NFTs.
