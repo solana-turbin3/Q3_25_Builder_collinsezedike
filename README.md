@@ -27,10 +27,10 @@ This repository contains projects and exercises completed during the Solana Turb
 
 ### Week 3: NFT Staking & NFT Marketplace
 
--   [**nft-staking/**](./#)  
-    (To be added) Programs and scripts related to NFT staking exercises.
+-   [**nft-staking/**](./nft-staking)  
+    Anchor program for staking NFTs, where users can lock up their NFTs and earn rewards.
 -   [**nft-marketplace/**](./#)  
-    (To be added) Programs and scripts for building an NFT marketplace.
+    (To be added) Anchor program for an NFT marketplace, where users can list and purchase NFTs.
 
 ---
 
