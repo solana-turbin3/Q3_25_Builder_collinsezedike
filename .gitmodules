@@ -18,3 +18,7 @@
 	path = nft-staking
 	url = https://github.com/collinsezedike/nft-staking
 	branch = main
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = https://github.com/collinsezedike/nft-marketplace.git
+	branch = main
