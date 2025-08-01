@@ -29,8 +29,8 @@ This repository contains projects and exercises completed during the Solana Turb
 
 -   [**nft-staking/**](https://github.com/collinsezedike/nft-staking)  
     Anchor program for staking NFTs, where users can lock up their NFTs and earn rewards.
--   [**nft-marketplace/**](./#)  
-    (To be added) Anchor program for an NFT marketplace, where users can list and purchase NFTs.
+-   [**nft-marketplace/**](https://github.com/collinsezedike/nft-marketplace)  
+    Anchor program for an NFT marketplace, where users can list and purchase NFTs.
 
 ---
 
