@@ -32,6 +32,13 @@ This repository contains projects and exercises completed during the Solana Turb
 -   [**nft-marketplace/**](https://github.com/collinsezedike/nft-marketplace)  
     Anchor program for an NFT marketplace, where users can list and purchase NFTs.
 
+### Week 4: Games & Governance
+
+-   [**satoshi-dice/**](https://github.com/collinsezedike/satoshi-dice)  
+    Anchor implementation of the classic Satoshi Dice betting game, where users place bets and roll for provably fair outcomes.
+-   [**quadratic-voting/**](./#)  
+    (To be added) Anchor program that demonstrates quadratic voting, allowing users to allocate votes in proportion to their staked tokens for more balanced community decisions.
+
 ---
 
 **Note:**  
