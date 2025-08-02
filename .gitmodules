@@ -22,3 +22,7 @@
 	path = nft-marketplace
 	url = https://github.com/collinsezedike/nft-marketplace.git
 	branch = main
+[submodule "satoshi-dice"]
+	path = satoshi-dice
+	url = https://github.com/collinsezedike/satoshi-dice.git
+	branch = main
