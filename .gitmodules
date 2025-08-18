@@ -26,3 +26,7 @@
 	path = satoshi-dice
 	url = https://github.com/collinsezedike/satoshi-dice.git
 	branch = main
+[submodule "capstone: shapely"]
+	path = capstone: shapely
+	url = https://github.com/collinsezedike/shapely.git
+	branch = main
