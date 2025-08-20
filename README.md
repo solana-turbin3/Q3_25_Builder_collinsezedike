@@ -39,6 +39,12 @@ This repository contains projects and exercises completed during the Solana Turb
 -   [**quadratic-voting/**](./#)  
     (To be added) Anchor program that demonstrates quadratic voting, allowing users to allocate votes in proportion to their staked tokens for more balanced community decisions.
 
+### Capstone Project: Shapely
+
+Shapely is a cross-app avatar system where users own their avatars and accessories as NFTs, can mint new ones, list them for sale, and buy from others — with all ownership and trades recorded on-chain for portability across games and apps.
+
+Github link: [https://github.com/collinsezedike/shapely](https://github.com/collinsezedike/shapely)
+
 ---
 
 **Note:**  
